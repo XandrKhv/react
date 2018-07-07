@@ -12,7 +12,7 @@ class App extends Component {
     return (
       <div className="wrapper">
         <SayFullName name="Kate" surname="Bubnovskaya" link="vk.com" />
-        <SayFullName name="Anna" surname="Petrova" link="faxebook.com" />
+        <SayFullName name="Elena" surname="Petrova" link="faxebook.com" />
         <SayFullName name="Max" surname="Serov" link="max-factor.com" />
       </div>
     );
